@@ -1,0 +1,6 @@
+[duohtrp]
+ikey = "<Your IKEY here>"
+skey = "<Your SKEY here>"
+host = "<Your HOST here>"
+htpasswd_file = "duohtrp.htpasswd"
+backend = "http://localhost:8001"
