@@ -1,5 +1,5 @@
 # duohtrp
-Golang htaccess reverse proxy with Duo 2 Factor Authentication
+A go htaccess protected reverse proxy with Duo 2 Factor Authentication
 
 Proof of concept for DUO 2 Factor Authentication using htaccess file and
 a DUO 2 Factor Push on your Smartphone.
